@@ -1,0 +1,14 @@
+{
+    "server": {
+        "host": "your-aternos-server.aternos.me",
+        "port": 25565,
+        "version": "1.20.1"
+    },
+    "bot": {
+        "username": "Visa2CodeBot",
+        "reconnectDelay": 5000,
+        "activityInterval": 30000,
+        "randomLeaveChance": 0.05,
+        "randomLeaveInterval": 300000
+    }
+}

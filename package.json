@@ -1,0 +1,27 @@
+{
+  "name": "aternos-24-7-bot",
+  "version": "1.0.0",
+  "description": "Advanced Aternos server automation bot",
+  "main": "dist/bot.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/bot.js",
+    "dev": "tsc && node dist/bot.js"
+  },
+  "keywords": [
+    "minecraft",
+    "bot",
+    "aternos",
+    "automation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "mineflayer": "^4.32.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.14",
+    "typescript": "^5.9.2"
+  }
+}
