@@ -1,6 +1,15 @@
 # Aternos 24/7 Bot
 
+[![GitHub stars](https://img.shields.io/github/stars/TejasLamba2006/Aternos-24-7-Bot)](https://github.com/TejasLamba2006/Aternos-24-7-Bot)
+[![GitHub forks](https://img.shields.io/github/forks/TejasLamba2006/Aternos-24-7-Bot)](https://github.com/TejasLamba2006/Aternos-24-7-Bot)
+[![GitHub issues](https://img.shields.io/github/issues/TejasLamba2006/Aternos-24-7-Bot)](https://github.com/TejasLamba2006/Aternos-24-7-Bot)
+[![Node.js](https://img.shields.io/badge/Node.js-18+-green)](https://nodejs.org/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/TejasLamba2006/Aternos-24-7-Bot/blob/main/LICENSE)
+[![Discord](https://img.shields.io/discord/123456789012345678?color=blue&label=Discord)](https://discord.gg/msEkYDWpXM)
+
 Advanced automation bot for Aternos cracked Minecraft servers.
+
+**GitHub Repository:** [https://github.com/TejasLamba2006/Aternos-24-7-Bot](https://github.com/TejasLamba2006/Aternos-24-7-Bot)
 
 ## Setup
 
@@ -41,3 +50,7 @@ Advanced automation bot for Aternos cracked Minecraft servers.
 - Auto-reconnection on disconnect
 - Random leave/rejoin patterns
 - AFK prevention through movement simulation
+
+## Support
+
+Join our Discord server for support and updates: [https://discord.gg/msEkYDWpXM](https://discord.gg/msEkYDWpXM)
