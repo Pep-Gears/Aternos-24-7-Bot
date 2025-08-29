@@ -4,7 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/TejasLamba2006/Aternos-24-7-Bot)](https://github.com/TejasLamba2006/Aternos-24-7-Bot)
 [![GitHub issues](https://img.shields.io/github/issues/TejasLamba2006/Aternos-24-7-Bot)](https://github.com/TejasLamba2006/Aternos-24-7-Bot)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green)](https://nodejs.org/)
-[![License](https://img.shields.io/badge/License-Custom-blue)](https://github.com/TejasLamba2006/Aternos-24-7-Bot/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-Custom-blue)](https://github.com/TejasLamba2006/Aternos-24-7-Bot/blob/main/LICENSE.md)
 [![Discord](https://img.shields.io/discord/123456789012345678?color=blue&label=Discord)](https://discord.gg/msEkYDWpXM)
 
 Advanced automation bot for Aternos cracked Minecraft servers.
@@ -53,7 +53,7 @@ Advanced automation bot for Aternos cracked Minecraft servers.
 
 ## License
 
-This project is licensed under a custom license. See the [LICENSE](LICENSE) file for full details.
+This project is licensed under a custom license. See the [LICENSE](LICENSE.md) file for full details.
 
 ### Key License Terms
 
